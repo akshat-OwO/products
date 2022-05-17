@@ -1,0 +1,9 @@
+.content *{
+    background-color: rgb(241, 236, 236);
+    padding: 10px;
+}
+.content h1{
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+}
